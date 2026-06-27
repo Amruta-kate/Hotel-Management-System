@@ -26,6 +26,18 @@ It connects with a MySQL database using JDBC to store and retrieve data.
 - **GUI:** Java Swing
 - **Database:** MySQL
 - **Database Connectivity:** JDBC
-- **IDE:** IntelliJ IDEA / Eclipse
+- **IDE:** IntelliJ IDEA
 
 ## 📂 Project Structure
+
+Hotel-Management-System
+│
+├── src
+│ ├── Java Classes
+│ ├── Swing GUI Forms
+│ └── JDBC Connection Files
+│
+├── Database
+│ └── MySQL Tables
+│
+└── README.md
