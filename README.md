@@ -27,4 +27,5 @@ It connects with a MySQL database using JDBC to store and retrieve data.
 - **Database:** MySQL
 - **Database Connectivity:** JDBC
 - **IDE:** IntelliJ IDEA
+<img width="1912" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e5d6709-c604-40f5-b632-8ac35c9c2a03" />
 
